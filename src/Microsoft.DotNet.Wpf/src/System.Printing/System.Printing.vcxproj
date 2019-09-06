@@ -27,8 +27,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <!-- Target .Net Core 3.0 -->
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <!-- Target .Net Core 3.1 -->
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <TargetFrameworkIdentifier>.NETCoreApp</TargetFrameworkIdentifier>
   </PropertyGroup>
   
